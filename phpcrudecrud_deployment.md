@@ -1,4 +1,4 @@
-#Section 1: Purpose of the PHP Crude CRUD Application**
+#Section 1: Purpose of the PHP Crude CRUD Application#
 The PHP Crude CRUD Application is a web-based application that allows users to perform CRUD (Create, Read, Update, Delete) operations on a MySQL database. In addition, it provides an easy-to-use graphical user interface for managing database records without extensive knowledge of SQL.
 **Section 2: Overview of Application Deployment**
 To deploy the PHP Crude CRUD application, the following general steps are required:
