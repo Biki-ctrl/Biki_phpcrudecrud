@@ -1,7 +1,7 @@
 #Section 1: Purpose of the PHP Crude CRUD Application#
 The PHP Crude CRUD Application is a web-based application that allows users to perform CRUD (Create, Read, Update, Delete) operations on a MySQL database. In addition, it provides an easy-to-use graphical user interface for managing database records without extensive knowledge of SQL.
 **Section 2: Overview of Application Deployment**
-To deploy the PHP Crude CRUD application, the following general steps are required:
+To deploy the PHP Crude CRUD application, the following steps are required:
 Provision a virtual machine with sufficient resources, including 2048MB RAM, 1 or 2 vCPUs, and a 40GB HDD.
 Install the Ubuntu 20.04 operating system on the virtual machine.
 Install and configure Apache 2 and PHP on the virtual machine.
